@@ -2,7 +2,9 @@
 title: Hello World 为什么改不了语言！
 tags: 日志
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+说好的30分钟部署呢？搞了半天才弄好，还有很多功能没有添加
+md的语法还没学！
+
 参考这个： 
 http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/#more
 http://theme-next.iissnan.com/theme-settings.html

@@ -6,3 +6,8 @@ npm install hexo-wordcount --save
 
 Local Search：
 npm install hexo-wordcount --save
+
+设置页面文章的篇数:
+npm install --save hexo-generator-index
+npm install --save hexo-generator-archive
+npm install --save hexo-generator-tag

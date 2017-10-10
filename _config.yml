@@ -80,11 +80,12 @@ deploy:
   type: git
   repo: https://github.com/helleong/helleong.github.io.git
   branch: master
+  
 
-# Backup
-backup:
-    type: git
-    theme: next
-    repository:
-       github: git@github.com:helleong/helleong.github.io.git,hexo
-       # gitcafe: git@github.com:xxx/xxx.git,branchName
+# search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+ 

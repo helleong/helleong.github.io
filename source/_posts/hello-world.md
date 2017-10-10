@@ -1,6 +1,7 @@
 ---
 title: Hello World 为什么改不了语言！
 tags: 日志
+copyright: true
 ---
 说好的30分钟部署呢？搞了半天才弄好，还有很多功能没有添加
 md的语法还没学！

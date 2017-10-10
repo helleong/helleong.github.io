@@ -10,6 +10,7 @@ date: 2017-10-10 09:03:00
 鉴于目前国内的言论抓得比较严，而且传统的博客网站说关就关，所以就跟风加入了全世界最大的“同性恋交友平台”——Github，并且结合hexo快速搭建了这个静态网站，详细请阅→
 
 ![paste image](http://oxlhai6rs.bkt.clouddn.com/1507622854736e948qyxn.png?imageslim)
+<!-- more -->
 
 # 1 -Markdown
 > Markdown的目标是实现「易读易写」。

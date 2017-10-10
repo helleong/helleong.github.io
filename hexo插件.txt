@@ -1,0 +1,8 @@
+部署hexo：
+npm install hexo-deployer-git --save
+
+字数统计：
+npm install hexo-wordcount --save
+
+Local Search：
+npm install hexo-wordcount --save

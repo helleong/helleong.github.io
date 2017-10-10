@@ -11,3 +11,13 @@ npm install hexo-wordcount --save
 npm install --save hexo-generator-index
 npm install --save hexo-generator-archive
 npm install --save hexo-generator-tag
+
+hexo-admin-qiniu²å¼þ£º
+npm install --save hexo-admin-qiniu
+hexo server -d
+open http://localhost:4000/admin/
+
+https://xbotao.github.io/hexo-admin-qiniu/
+
+http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/#more
+http://theme-next.iissnan.com/theme-settings.html

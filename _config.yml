@@ -89,3 +89,12 @@ search:
   format: html
   limit: 10000
  
+# hexo-admin-qiniu
+## Docs: https://xbotao.github.io/hexo-admin-qiniu/
+admin:
+  qiniuCfg:
+      imageslim: true  # 启动图片瘦身，仅华东区bucket可以使用
+      AccessKey: DiKxUV_tbaWpF1fC3SFPI_rD1YQeXR8Oag2KGnMI
+      SecretKey: ev3y-jolkBB_RE308JsdFFpnDVkA3zm6lmV5DjXl
+      BucketName: helleong-github-io
+      bucketHost: oxlhai6rs.bkt.clouddn.com
